@@ -34,3 +34,4 @@ mod tests {
         assert_eq!(response, "Insufficient balance.");
     }
 }
+
