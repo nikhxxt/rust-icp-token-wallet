@@ -1,4 +1,4 @@
-This file specifies files and directories to ignore
+# This file specifies files and directories to ignore
 # Build artifacts
 /target/
 
