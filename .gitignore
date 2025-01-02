@@ -1,0 +1,38 @@
+# Ignore build output
+/target/
+
+# Ignore Dfinity's generated files
+.df/
+dfx.cache/
+dfx.log
+
+# Ignore Rust-specific files
+*.rs.bk
+*.rs.swo
+*.rs.swp
+
+# Ignore Rust dependency directories
+/target/
+/Cargo.lock
+
+# Ignore local configuration files (if any)
+local_config.json
+
+# Ignore temporary files from editors
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Ignore generated documentation (e.g., HTML output)
+docs/
+
+# Ignore log files
+*.log
+
+# Ignore the README if it's being auto-generated (optional)
+# README.md  # Uncomment if you're auto-generating README files
