@@ -106,6 +106,3 @@ icp-token-wallet/
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-
-For any queries, contact **hr@quadbtech.com** with the subject "Rust Blockchain Developer Task" for prioritized assistance.
