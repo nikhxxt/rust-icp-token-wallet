@@ -1,3 +1,4 @@
+#This file contains the smart contract logic in Rust for token transactions.
 use ic_cdk::export::candid::{CandidType, Principal};
 use ic_cdk_macros::{query, update};
 use std::collections::HashMap;
