@@ -1,0 +1,15 @@
+{
+  "canisters": {
+    "icp_token_wallet": {
+      "type": "rust",
+      "candid": "src/main.did",
+      "wasm": "target/wasm32-unknown-unknown/release/icp_token_wallet.wasm"
+    }
+  },
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:8000"
+    }
+  },
+  "version": 1
+}
